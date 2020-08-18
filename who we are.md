@@ -1,7 +1,7 @@
-# g0at
 
 # g0at enterprises
 Empresa formada por dois estudantes de TADS, em que se encontram atualmente no Segundo Semestre da Univerdade Nove de Julho. Repositório criado com o propósito único de armazenar HTML e CSS utilizáveis.
+![alt text](https://seeklogo.com/images/G/goat-logo-12303E235C-seeklogo.com.png)
 
 ## "THE ONE"
 **(landing)**
