@@ -59,7 +59,7 @@ Empresa formada por dois estudantes de TADS, em que se encontram atualmente no S
 			<div id="footer-wrap">
         <div class="container">
 			<div class="top-divider"></div>
-       		<center><font face='Verdana' color=#a2a2a2><br /><small><small><small>G0AT ENTERPRISE</small></small> ®<small> 2015</font></center>
+       		<center><font face='Verdana' color=#a2a2a2><br /><small><small><small>G0AT ENTERPRISE</small></small> ®<small> 2020</font></center>
 			<div class="bottom-divider"></div>
 
 		</div>
@@ -112,7 +112,7 @@ Empresa formada por dois estudantes de TADS, em que se encontram atualmente no S
 			<div id="footer-wrap">
         <div class="container">
 			<div class="top-divider"></div>
-       		<center><font face='Verdana' color=#000><br /><small><small><small></small>G0AT</small> ®<small> 2019</font></center>
+       		<center><font face='Verdana' color=#000><br /><small><small><small></small>G0AT</small> ®<small> 2020</font></center>
 			<div class="bottom-divider"></div>
 
 		</div>
@@ -190,8 +190,7 @@ Empresa formada por dois estudantes de TADS, em que se encontram atualmente no S
 						<td id="header-right">
 							<table>
 								<tr>
-									<td class="phone-number">{phone:text}</td>
-									<td class="social">{social}</td>
+									
 								</tr>
 							</table>
 							<div class="search">{search}</div>
